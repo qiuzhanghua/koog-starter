@@ -8,7 +8,7 @@ Welcome to the Koog project! This repository contains resources and examples to 
 - Kotlin 2.2 or higher
 - Gradle 9.2 or higher
 
-- DeepSeek API Key (sign up at [DeepSeek](https://deepseek.ai/))
+- DeepSeek API Key (sign up at [DeepSeek](https://platform.deepseek.com/))
 
 
 ## Getting Started
